@@ -89,6 +89,7 @@ class Student
       #    arr<<self.new_from_db(e)
       #    a += 1
       #  end
+      self.new_from_db(e)
         }
     #  arr
  end
